@@ -1,3 +1,5 @@
+package ma.naf.calculator;
+
 import java.util.Arrays;
 
 public class Calculator {

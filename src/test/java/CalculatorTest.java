@@ -1,3 +1,5 @@
+import ma.naf.calculator.Calculator;
+import ma.naf.calculator.NegativeNumberException;
 import org.junit.jupiter.api.*;
 
 public class CalculatorTest {
