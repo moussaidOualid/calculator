@@ -67,7 +67,7 @@ public class CalculatorTest {
     @DisplayName("Should Concider any Length of delimeter")
     public void shouldConciderAnyLengthOfDelimeter(){
         //Given
-        String numbers = "//[***]\n3***10" ;
+        String numbers = "//[;;;]\n3;;;10" ;
         //When
         int result = calculator.add(numbers);
         //Then
